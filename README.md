@@ -36,7 +36,7 @@ I am currently working on the final project of my bootcamp. I can't reveal too m
 ### 🚀 Where I'm headed
 
 I hope to have time in the next few months, before 2021 is over, to: 
-- Sharpen my web desgin skills,
+- Sharpen my web design skills,
 - master Figma,
 - start learning a new programming language (I'm looking at you, Go).
 
