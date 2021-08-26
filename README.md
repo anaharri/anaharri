@@ -5,7 +5,7 @@
 ### 🙋🏻‍♀️ Who I am
 
 A full-stack web developer with a strong inclination towards frontend development and design.
-A surprising combination of a colorful, creative, artistic soul, and an obsessive Capricorn-head who cannot stand to see a text with the wrong alignment. 🤦🏻‍♀️
+A unique combination of a colorful, creative, artistic soul, and an obsessive Capricorn-head who cannot stand to see a text with the wrong alignment. 🤦🏻‍♀️
 
 > Pronouns: she/her
 
