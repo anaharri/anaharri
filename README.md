@@ -18,8 +18,7 @@ A unique combination of a colorful, creative, artistic soul, and an obsessive Ca
 - JavaScript
 - React
 - Redux
-- Node
-- NPM
+- Node & NPM
 - Express
 - MongoDB & Mongoose
 - SQL & Sequelize
