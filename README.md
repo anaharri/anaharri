@@ -28,7 +28,7 @@ These are some of the main technologies I've used for the projects you're about 
 
 
 ### 🌱 Where I am
-I am currently a Tech Lead / Frontend dev at [Henry] (https://www.soyhenry.com/)... but not for much longer! Soon I will become a bootcamp instructor, which I'm super excited about 🥳 
+I am currently a Tech Lead / Frontend dev at [Henry](https://www.soyhenry.com/)... but not for much longer! Soon I will become a bootcamp instructor, which I'm super excited about 🥳 
 Also, because I always want to know more, I'm diving deep into algorithms and data structures with JavaScript, while coding, at the same time, a nice React app for our students at Henry.
 
 
