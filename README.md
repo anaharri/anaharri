@@ -29,16 +29,14 @@ These are some of the main technologies I've used for the projects you're about 
 
 
 ### 🌱 Where I am
-I am currently working on the final project of my bootcamp. I can't reveal too much for now 🤭 but I can tell you this: it involves NFTs, it will be complete soon, and we are having a ton of fun building it. Stay tuned! 📺
+I am currently a Tech Lead / Frontend dev at [Henry] (https://www.soyhenry.com/)... but not for much longer! Soon I will become a bootcamp instructor, which I'm super excited about 🥳 
+Also, because I always want to know more, I'm diving deep into algorithms and data structures with JavaScript, while coding, at the same time, a nice React app for our students at Henry.
 
 
 
 ### 🚀 Where I'm headed
 
-I hope to have time in the next few months, before 2021 is over, to: 
-- Sharpen my web design skills,
-- master Figma,
-- start learning a new programming language (I'm looking at you, Go).
+My main goal at this point is to sharpen both my tech knowledge and my soft skills in order to improve as an instructor. Aside from teaching or studying, I hope to have time to work on some personal projects.
 
 
 
@@ -46,6 +44,6 @@ I hope to have time in the next few months, before 2021 is over, to:
 
 
 
-Anyways, come in, check out my projects, and feel free to [contact me](https://www.linkedin.com/in/ana-harrington/). I'm always open to receiving helpful feedback and having nerdy conversations 🤓
+Anyways, come in, check out my work, and feel free to [contact me](https://www.linkedin.com/in/ana-harrington/). I'm always open to receiving helpful feedback and having nerdy conversations 🤓
 
 
